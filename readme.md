@@ -3,4 +3,5 @@
 
 ## Quick start
 * Make sure ypu have subfinder installed 
-* python3 takeover.py 
+* To install subfinder - ```go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest```
+* ```python3 takeover.py``` 
